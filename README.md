@@ -1,7 +1,6 @@
+                                                   # Name : BASKAR  J
+                                                   # Roll no : 212223040025
 # Fitting Poisson  distribution
-# Name : BASKAR  J
-# Roll no : 212223040025
-
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
