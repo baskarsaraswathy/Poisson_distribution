@@ -1,5 +1,5 @@
-                                                   # Name : BASKAR  J
-                                                   # Roll no : 212223040025
+                                                             # Name : BASKAR  J
+                                                             # Roll no : 212223040025
 # Fitting Poisson  distribution
 # Aim : 
 
